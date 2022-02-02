@@ -1,0 +1,8 @@
+.video__iframes {
+    /* Контейнер для видео */
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin: 50px 0 -40px 0;
+    z-index: 1;
+}

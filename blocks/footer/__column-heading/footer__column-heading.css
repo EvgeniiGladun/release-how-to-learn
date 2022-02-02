@@ -1,0 +1,11 @@
+  .footer__column-heading {
+    /* Заголовок блоков - h3 */
+    color: white;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+  .footer__column-heading:first-of-type {
+    margin-top: 0px;
+  }

@@ -1,0 +1,9 @@
+.khan__book-pic {
+    /* Книга Хан */
+    display: flex;
+    margin: 0 0 -30px 0;
+    width: 608px;
+    height: 620px;
+    object-fit: cover;
+    object-position: top;
+}

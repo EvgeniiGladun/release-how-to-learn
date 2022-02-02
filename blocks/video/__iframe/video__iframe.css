@@ -1,0 +1,12 @@
+.video__iframe {
+    /* Вставки фрэймов с видео */
+    height: 316px;
+    width: 515px;
+    margin-right: 20px;
+    border: 0px;
+}
+
+.video__iframe:last-of-type {
+    /* Убирает отступ справа у последнего видео */
+    margin-right: 0;
+}

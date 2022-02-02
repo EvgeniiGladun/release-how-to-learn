@@ -1,0 +1,18 @@
+.khan__buy-link {
+    /* Купить книгу */
+    display: flex;
+    height: 40px;
+    margin-left: 48px;
+    width: 215px;
+    text-decoration: unset;
+    color: #2F80ED;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+    transition: opacity 0.2s linear;
+}
+
+.khan__buy-link:hover {
+    /* Наведите на сссылку и увидите магию =) */
+    opacity: 0.6;
+}

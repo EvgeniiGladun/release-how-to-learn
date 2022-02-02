@@ -1,0 +1,11 @@
+.header__main-illustration {
+    /* Картина "Опять двойка" */
+    position: absolute;
+    object-fit: contain;
+    object-position: right;
+    z-index: 1;
+    height: 608px;
+    width: 765px;
+    right: 0px;
+    bottom: 0px;
+  }

@@ -1,0 +1,7 @@
+.table__cell {
+    /* Стиль Таблиц */
+    width: 250px;
+    margin-top: 60px;
+    color: black;
+    list-style-type: none;
+  }

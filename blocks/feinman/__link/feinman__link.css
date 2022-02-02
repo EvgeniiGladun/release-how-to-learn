@@ -1,0 +1,17 @@
+.feinman__link {
+    /* Ссылка - <а> */
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    position: absolute;
+    text-decoration: unset;
+    right: 48px;
+    top: 50%;
+    transform: translateY(0in);
+    color: black;
+    transition: opacity .2s linear;
+  }
+
+  .feinman__link:hover {
+    opacity: .6;
+  }

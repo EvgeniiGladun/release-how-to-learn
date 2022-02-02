@@ -1,0 +1,7 @@
+.footer__social-icon {
+    /* Размер, отступы иконок соц.сетей */
+    width: 16px;
+    height: 16px;
+    margin-right: 10px;
+    margin-bottom: -02px;
+  }

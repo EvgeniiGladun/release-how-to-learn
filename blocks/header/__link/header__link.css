@@ -1,0 +1,10 @@
+.header__link {
+    /* Ссылка в шапке*/
+    text-decoration: unset;
+    color: #2f80ed;
+    transition: opacity .2s linear;
+  }
+  
+  .header__link:hover {
+    opacity: .6;
+  }

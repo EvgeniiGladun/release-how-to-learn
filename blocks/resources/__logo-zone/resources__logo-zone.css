@@ -1,0 +1,9 @@
+.resources__logo-zone {
+    /* Контейнер для логотипов - домик =) */
+    width: 1100px;
+    list-style-type: none;
+    margin: 80px auto 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}

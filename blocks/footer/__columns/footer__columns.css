@@ -1,0 +1,7 @@
+.footer__columns {
+    /* Родительский блок таблиц */
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+  }

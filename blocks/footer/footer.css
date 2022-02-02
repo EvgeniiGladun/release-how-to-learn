@@ -1,0 +1,7 @@
+.footer {
+    /* Родительский блок - footer */
+    box-sizing: border-box;
+    min-height: 350px;
+    padding: 60px 0 40px 0;
+    background-color: #1F1F1F;
+  }

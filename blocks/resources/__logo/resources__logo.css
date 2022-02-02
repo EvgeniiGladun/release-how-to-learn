@@ -1,0 +1,15 @@
+.resources__logo {
+    /* Убирает подчеркивание списка =) */
+    text-decoration: none;
+      /* Параметры ШхВ логотипов */
+      width: 270px;
+      height: 38px;
+      /* Позиционирование лого */
+      display: flex;
+      justify-content: space-around;
+      transition: opacity .2s linear;
+}
+
+.resources__logo:hover {
+  opacity: .6;
+}
